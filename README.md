@@ -141,6 +141,8 @@ BACKEND / DATABASE
 ──────────────
 Firebase
 Firestore
+SQL
+MySQL
 CRUD Operations
 
 AI / ML
