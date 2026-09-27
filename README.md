@@ -20,7 +20,7 @@
 └─$ whoami
 
 Shamik Das
-B.Tech Computer Science & Engineering
+2nd year B.Tech Computer Science & Engineering
 Adamas University
 ```
 
