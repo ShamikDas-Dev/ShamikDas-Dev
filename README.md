@@ -42,17 +42,17 @@ Adamas University
 ## `$ system-info`
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                       SYSTEM INFORMATION                     │
-├──────────────────────────────────────────────────────────────┤
-│ OS            : Linux / Windows                              │
-│ Shell         : PowerShell / Bash                            │
-│ Editor        : VS Code                                      │
-│ Primary Focus : Software Engineering                         │
-│ Interests     : AI/ML • Robotics • Cybersecurity • Web       │
-│ Environment   : Student Developer                             │
-│ Current Mode  : Learning → Building → Deploying              │
-╰──────────────────────────────────────────────────────────────╯
+
+                       SYSTEM INFORMATION                     
+
+ OS            : Linux / Windows                              
+ Shell         : PowerShell / Bash                            
+ Editor        : VS Code                                      
+ Primary Focus : Software Engineering                         
+ Interests     : AI/ML • Robotics • Cybersecurity • Web       
+ Environment   : Student Developer                             
+ Current Mode  : Learning → Building → Deploying              
+
 ```
 
 ---
